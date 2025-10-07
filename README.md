@@ -12,4 +12,4 @@
 
 ## Output
 
-![HTML & CSS: Create a registration :](https://github.com/user-attachments/assets/ff3f82af-67d1-4e12-9a62-37b3959e4e0f)
+![HTML & CSS: Create a registration :](https://github.com/user-attachments/assets/33491007-20ca-4c68-95f3-ecefcdb17359)
